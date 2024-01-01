@@ -6,7 +6,7 @@ function getYear() {
 }
 
 getYear();
-
+// hi
 
 // client section owl carousel
 $(".client_owl-carousel").owlCarousel({
